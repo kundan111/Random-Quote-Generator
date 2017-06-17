@@ -1,0 +1,57 @@
+body{
+  background-color:black;
+}
+
+h1{
+
+  color:white;
+  font-family:"Times New Roman";
+  font-size:50px;
+ }
+
+p{
+  color:red;
+  font-family:"Times New Roman";
+  font-style:italic;
+  font-size:20px;
+ }
+
+img{
+
+  padding:20px;
+
+}
+
+.quotes{
+  background-color:#85144b;
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+  color:black;
+ }
+
+.quote
+{
+  font-size:30px;
+  font-family:"Times New Roman";
+
+ }
+
+.author
+{
+  font-size:20px;
+  font-style:italic;
+}
+.btn{
+
+  margin-top:20px;
+}
+.k{
+  margin-top:20px;
+}
